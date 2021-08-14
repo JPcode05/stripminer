@@ -6,6 +6,8 @@ Examples of URL Shorteners we support archiving:
 * goo.gl
 * bit.ly
 * tinyurl
+
+Coming soon:
 * ow.ly
 
 Stripminer is made by James Pearson and is licensed under the [GNU LGPLv2.1 or later](LICENSE).
